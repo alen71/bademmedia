@@ -44,7 +44,7 @@ const HomeAnimatedTextRow = ({ text, id, index }: Props) => {
     <span data-scroll className="block relative py-[5px]">
       <span className=" block text-white">{text}</span>
       <span
-        className="block absolute right-0 top-0 h-full bg-badem-brown dark:bg-main-black  opacity-75 z-10"
+        className="block absolute right-0 top-0 h-full bg-badem-brown dark:bg-main-black transition-colors duration-300 opacity-75 z-10"
         style={{ width: `${progress}%` }}
       ></span>
     </span>
