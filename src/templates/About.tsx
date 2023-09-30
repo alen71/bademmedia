@@ -4,11 +4,11 @@ import { useTranslation } from 'next-i18next'
 
 import bgtImage from '/public/images/pozadina-about.png'
 
-import aleksandarImgPortrait from '/public/images/About Us/Aleksandar/portrait-rounded.png'
+import aleksandarImgPortrait from '/public/images/About Us/Aleksandar/portrait-rounded.jpg'
 import aleksandarImg from '/public/images/About Us/Aleksandar/Aleksandar2.jpg'
 import tijanaImgPortrait from '/public/images/About Us/Tijana/pragnet-woman.png'
-import ivanKostakijevImgPortrait from '/public/images/About Us/Ivan Kostakijev/portrait-rounded.png'
-import ivanKostakijevImg from '/public/images/About Us/Ivan Kostakijev/Tijanadizajner2.jpg'
+import ivanKostakijevImgPortrait from '/public/images/About Us/Ivan Kostakijev/ivanKostakijev.jpg'
+import ivanKostakijevImg from '/public/images/About Us/Ivan Kostakijev/portrait-rounded.jpg'
 import aleksejImgPortrait from '/public/images/About Us/Aleksej/Aleksej2.jpg'
 import aleksejImg from '/public/images/About Us/Aleksej/Aleksej1.jpg'
 import matijaImgPortrait from '/public/images/About Us/matija/portrait.jpg'
@@ -65,12 +65,12 @@ const About = () => {
       reverse: true
     },
     {
-      imgUrlPortrait: { src: ivanKostakijevImgPortrait, alt: 'portrait' },
-      imgUrl: { src: ivanKostakijevImg, alt: 'slika' },
-      name: t('team.ivanKostakijev.name'),
-      role: t('team.ivanKostakijev.role'),
-      title: t('team.ivanKostakijev.title'),
-      desc: t('team.ivanKostakijev.desc')
+      imgUrlPortrait: { src: bobanImgPortrait, alt: 'portrait' },
+      imgUrl: { src: bobanImg, alt: 'slika' },
+      name: t('team.boban.name'),
+      role: t('team.boban.role'),
+      title: t('team.boban.title'),
+      desc: t('team.boban.desc')
     },
     {
       imgUrlPortrait: { src: mladenImgPortrait, alt: 'portrait' },
@@ -99,12 +99,12 @@ const About = () => {
       reverse: true
     },
     {
-      imgUrlPortrait: { src: bobanImgPortrait, alt: 'portrait' },
-      imgUrl: { src: bobanImg, alt: 'slika' },
-      name: t('team.boban.name'),
-      role: t('team.boban.role'),
-      title: t('team.boban.title'),
-      desc: t('team.boban.desc')
+      imgUrlPortrait: { src: ivanKostakijevImgPortrait, alt: 'portrait' },
+      imgUrl: { src: ivanKostakijevImg, alt: 'slika' },
+      name: t('team.ivanKostakijev.name'),
+      role: t('team.ivanKostakijev.role'),
+      title: t('team.ivanKostakijev.title'),
+      desc: t('team.ivanKostakijev.desc')
     }
   ]
 
