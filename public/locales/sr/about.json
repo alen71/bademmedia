@@ -19,11 +19,11 @@
       "title": "Od svih poslova na svetu, zasto sam izbarala baš ovaj koji radim?",
       "desc": "<span> Ovaj posao izabrao je mene, jer mi daje mogućnost da budem kreativna, uvek u toku sa trendovima, mogućnost da radim posao bilo gde da se nalazim i najvažnije, daje mi slobodu da mogu da radim kako ja osećam da je najbolje jer imam svo moguće poverenje naših klijenata. </span> </br> <span> Svaki novi projekat daje mi novu energiju, a svaki novi uspeh projekta koji odradimo budi u meni novu žar da stvaram i smišljam još uzbudljivije stvari! </span> </br> <span> To je ono što me godinama čini zaljubljenom u moj posao! </span>"
     },
-    "tijanaM": {
-      "name": "Tijana Milojević ",
+    "boban": {
+      "name": "Boban Aksić",
       "role": "Grafički dizajner",
-      "title": "Teška stvar u mom poslu koju zapravo volim?",
-      "desc": "<span> Dizajn sajtova. Izazov kod dizajna web stranica je u tome što moraš da spojiš dizajn i funkcionalnost. Kad pravim web stranicu, nastojim da komuniciram poentu i vajb brenda, da sve to bude privlačno i “ukusno”, a da u isto vreme svako dugme i informacija bude na pravom mestu. Desi se da se “zaglaviš” pa moraš malo da se izduvaš pre nego što nastaviš, ali to je izazov koju apsolutno obožavam!  </span> "
+      "title": "Da moram nekome u 1 jednoj rečenici da objasim šta radim, kako bih to rekao?",
+      "desc": "<span> Činim svet vizuelno lepšim mestom, uz pomoć malo znanja, a puno mašte. </span> "
     },
     "aleksej": {
       "name": "Aleksej Nešović",
@@ -55,11 +55,11 @@
       "title": "Čega treba da bude više u kreativnoj/digitalno industiji?",
       "desc": "<span> Više slobode i manje pravila. Stičem utisak da sve isto izgleda i da nema prostora za neke veće promene. To je ujedno i velika prednost ovog posla, jer i klijenti i ciljna grupa odmah prepoznaju kada “prekršiš” ta pravila, doneseš nešto drugačije! </span> "
     },
-    "boban": {
-      "name": "Boban Aksić",
+    "ivanKostakijev": {
+      "name": "Ivan Kostakijev",
       "role": "Grafički dizajner",
-      "title": "Da moram nekome u 1 jednoj rečenici da objasim šta radim, kako bih to rekao?",
-      "desc": "<span> Činim svet vizuelno lepšim mestom, uz pomoć malo znanja, a puno mašte. </span> "
+      "title": "Da nisi grafički dizajner, čime bi se (verovatno) bavio?",
+      "desc": "Da nisam grafički dizajner, prilično sam siguran da bih se bavio nekim sportom kao što je košarka ili borilačkim poput brazilske džiu-džice ili boksa."
     }
   },
   "metaTitle": "",
