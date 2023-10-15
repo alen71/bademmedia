@@ -7,10 +7,6 @@ export default function Document() {
   return (
     <Html lang={i18n?.language}>
       <Head>
-        <meta
-          name="google-site-verification"
-          content="8uVxG6gllZKF6mnwMmUViayRbxFn6_XeP-eTaEC2nQA"
-        />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -32,6 +28,11 @@ export default function Document() {
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#111" />
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff" />
+
+        <meta
+          name="google-site-verification"
+          content="8uVxG6gllZKF6mnwMmUViayRbxFn6_XeP-eTaEC2nQA"
+        />
 
         <meta
           name="facebook-domain-verification"
