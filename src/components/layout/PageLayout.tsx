@@ -16,7 +16,7 @@ type Props = {
 
 const PageLayout = ({ children, title, desc, purpleBg, noindex }: Props) => {
   return (
-    <Helmet title={title} desc={desc} noindex>
+    <Helmet title={title} desc={desc} noindex={noindex}>
       <div
         className={clsx('transition-colors duration-300 overflow-hidden  ', {
           'bg-badem-brown dark:bg-main-black': !purpleBg,
