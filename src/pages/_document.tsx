@@ -7,6 +7,10 @@ export default function Document() {
   return (
     <Html lang={i18n?.language}>
       <Head>
+        <meta
+          name="google-site-verification"
+          content="8uVxG6gllZKF6mnwMmUViayRbxFn6_XeP-eTaEC2nQA"
+        />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
